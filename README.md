@@ -1,8 +1,6 @@
 # LAB-PBO-09-2025
 
-# LAB-PBO-02-2024
-
-# Repositori Tugas Pemrograman Berorientasi Objek 2024
+# Repositori Tugas Pemrograman Berorientasi Objek 2025
 
 ## Requirements:
 1. Buat akun GitHub (https://github.com/)
@@ -19,7 +17,7 @@
 
    ```sh
 
-   git clone https://github.com/YOUR_USERNAME/LAB-PBO-02-2024.git
+   git clone https://github.com/YOUR_USERNAME/LAB-PBO-09-2025.git
 
    ```
 
@@ -27,7 +25,7 @@
 
    ```sh
 
-   cd LAP-PBO-02-2024
+   cd LAP-PBO-09-2025
    git branch NIM_ANDA
    git checkout NIM_ANDA
    git config user.name USERNAME_GITHUB
